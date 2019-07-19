@@ -1,0 +1,41 @@
+# Various Altium files
+*.PrjPCBStructure
+
+# Auto-conversion notices
+*.PcbDoc.htm
+
+# Previews Folders
+**/__Previews/*
+
+# History Folders
+**/History/*
+
+# Project Logs
+Project\ Logs*/*
+
+# Project Outputs
+Project\ Outputs*/*
+
+*.SchDocPreview
+*.PcbDocPreview
+__Previews
+*.PrjPcbStructure
+*.Dat
+*.REP 
+*.TLT
+*.LOG
+*.log
+*.htm
+*.$$$
+
+#Exports, but not manual ones
+exports/*
+!exports/manual
+
+#Initial experimenting
+**/Initial*/*
+
+
+
+
+
