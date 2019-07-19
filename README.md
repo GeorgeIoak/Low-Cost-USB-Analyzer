@@ -5,6 +5,6 @@ In order to keep costs down the size of the board was fixed at 50mm x 50mm and 4
 
 This is NOT a finished project but it is getting close. The design in done in Altium but I am going to try and convert the design to KiCad once it gets closer to being finished
 
-![1](op side render.png)
+![1](https://github.com/GeorgeIoak/Low-Cost-USB-Analyzer/blob/master/Images/LP4357_SDRAM_3D-Top.png)
 
-![2](bottom side render.png)
+![2](https://github.com/GeorgeIoak/Low-Cost-USB-Analyzer/blob/master/Images/LP4357_SDRAM_3D-Bot.png)
