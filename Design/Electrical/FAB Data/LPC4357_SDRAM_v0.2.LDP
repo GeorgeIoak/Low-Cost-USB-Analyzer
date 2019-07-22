@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Users\george\Dropbox\Design\LPC4357_SDRAM\LPC4357_SDRAM_v0.2.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=lpc4357_sdram_v0.2-roundholes.txt|DrillLayers=gtl,g1,g2,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=lpc4357_sdram_v0.2-slotholes.txt|DrillLayers=gtl,g1,g2,gbl

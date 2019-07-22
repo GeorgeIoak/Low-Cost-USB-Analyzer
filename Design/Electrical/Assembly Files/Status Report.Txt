@@ -1,0 +1,10 @@
+Output: P-CAD ASCII (AutoPCB)
+Type  : Exporter Wrapper
+From  : PCB Document [LPC4357_SDRAM_v0.2.PcbDoc]
+   Generated File[LPC4357_SDRAM_v0.2.PCB]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 2:31:35 PM On 7/22/2019
