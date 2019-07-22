@@ -1,4 +1,4 @@
-DRC Rules Export File for PCB: C:\Users\george\Dropbox\Design\LPC4357_SDRAM\LPC4357_SDRAM_v0.2.PcbDoc
+DRC Rules Export File for PCB: C:\Users\george\Dropbox\Design\LPC4357_SDRAM\Design\Electrical\LPC4357_SDRAM_v0.2.PcbDoc
 RuleKind=Clearance|RuleName=Clearance_Poly|Scope=Board|Minimum=5.00
 RuleKind=Width|RuleName=Width_BGA|Scope=Board|Minimum=3.50
 RuleKind=Clearance|RuleName=Clearance_BGA|Scope=Board|Minimum=4.33

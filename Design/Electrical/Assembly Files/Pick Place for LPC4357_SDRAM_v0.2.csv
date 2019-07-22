@@ -1,12 +1,12 @@
 Altium Designer Pick and Place Locations
-C:\Users\george\Dropbox\Design\LPC4357_SDRAM\.\Assembly Files\Pick Place for LPC4357_SDRAM_v0.2.csv
+C:\Users\george\Dropbox\Design\LPC4357_SDRAM\Design\Electrical\.\Assembly Files\Pick Place for LPC4357_SDRAM_v0.2.csv
 
 ========================================================================================================================
 File Design Information:
 
 Date:       22/07/19
-Time:       14:31
-Revision:   05911edd18500e00d7f924be73ae8197c6fb93f1
+Time:       15:09
+Revision:   Not in VersionControl
 Variant:    No variations
 Units used: mil
 
@@ -19,13 +19,13 @@ Units used: mil
 "R14","10k0","TopLayer","R_0402-N","1980,315","712,598","360","Resistor, 10.0 kO, 1%, 0.06W, 0402"
 "R13","10k0","TopLayer","R_0402-N","1980,315","984,252","360","Resistor, 10.0 kO, 1%, 0.06W, 0402"
 "R12","20k0","TopLayer","R_0402-N","1618,110","940,945","180","Resistor 20 kOhm, 1%, 0.1W, 0603"
-"FB7","300R","BottomLayer","FB_0402-NIC","1354,331","1133,858","270","Ferrite bead,300 ohm@100MHz,0.15 ohm @DC, 1A, 0402"
-"FB6","300R","BottomLayer","FB_0402-NIC","1409,449","1003,937","0","Ferrite bead,300 ohm@100MHz,0.15 ohm @DC, 1A, 0402"
+"FB7","300R","BottomLayer","FB_0402-NIC","1354,330","1133,858","270","Ferrite bead,300 ohm@100MHz,0.15 ohm @DC, 1A, 0402"
+"FB6","300R","BottomLayer","FB_0402-NIC","1409,448","1003,937","0","Ferrite bead,300 ohm@100MHz,0.15 ohm @DC, 1A, 0402"
 "R11","8.06k","TopLayer","R_0402-N","2433,071","1038,293","360","Resistor 8.06 kOhm, 1%, 0.1W, 0402"
 "D2","0603 Green","TopLayer","D_0603","2421,260","1090,551","360","0603 LED, Green"
 "S1","PTS840","TopLayer","SW_PTS840","2464,567","893,701","90","SWITCH SPST RA, 50mA, 24V, SMT"
 "FB5","300R","BottomLayer","FB_0402-NIC","2267,716","1318,898","270","Ferrite bead,300 ohm@100MHz,0.15 ohm @DC, 1A, 0402"
-"FB4","300R","BottomLayer","FB_0402-NIC","2330,709","1318,898","270","Ferrite bead,300 ohm@100MHz,0.15 ohm @DC, 1A, 0402"
+"FB4","300R","BottomLayer","FB_0402-NIC","2330,708","1318,898","270","Ferrite bead,300 ohm@100MHz,0.15 ohm @DC, 1A, 0402"
 "U2","MT48LC16M16A2F4","TopLayer","VFBGA54_8x8","2098,425","1673,228","180","256Mb PC133 SDR SDRAM, 16Mb x 16, 7.5ns, 3.3V, 0 to 70 degC, 54-Ball VFBGA, Pb-Free"
 "R7","10k0","TopLayer","R_0402-N","2161,417","1035,433","180","Resistor, 10.0 kO, 1%, 0.06W, 0402"
 "R5","10k0","TopLayer","R_0402-N","2161,417","1074,803","360","Resistor, 10.0 kO, 1%, 0.06W, 0402"
@@ -52,7 +52,7 @@ Units used: mil
 "C37","18p","BottomLayer","C_0402_N","1185,039","1260,604","180","Cap, Chip, 18pF, 25V, 10%, NPO 0402"
 "R6","10k0","TopLayer","R_0402-N","1948,819","1377,953","360","Resistor, 10.0 kO, 1%, 0.06W, 0402"
 "U3","USB3343-CP-TR","TopLayer","MCHP-QFN-24_A_V","1437,008","1078,740","270","Enhanced Single Supply Hi-Speed USB ULPI Transceiver, 1.8 to 3.3 V, -40 to 85 degC, 24-Pin QFN, RoHS, Tape and Reel"
-"C23","100n","BottomLayer","C_0402_N","1496,063","1003,937","0","Cap, Chip, 100nF, 16V, +/-10%, X7R, 0402"
+"C23","100n","BottomLayer","C_0402_N","1496,062","1003,937","0","Cap, Chip, 100nF, 16V, +/-10%, X7R, 0402"
 "C24","1u","TopLayer","C_0402_N","1560,738","1129,921","90","Cap, Chip, 1uF, 10V, 10%, X5R, 0402"
 "C25","1u","BottomLayer","C_0402_N","1401,575","937,008","180","Cap, Chip, 1uF, 10V, 10%, X5R, 0402"
 "C26","100n","BottomLayer","C_0402_N","1350,393","1027,559","270","Cap, Chip, 100nF, 16V, +/-10%, X7R, 0402"
@@ -79,11 +79,11 @@ Units used: mil
 "C15","100n","BottomLayer","C_0402_N","1437,007","1570,866","180","Cap, Chip, 100nF, 16V, +/-10%, X7R, 0402"
 "C14","100n","BottomLayer","C_0402_N","1496,063","1633,858","90","Cap, Chip, 100nF, 16V, +/-10%, X7R, 0402"
 "C13","100n","BottomLayer","C_0402_N","1456,693","1633,858","90","Cap, Chip, 100nF, 16V, +/-10%, X7R, 0402"
-"C12","100n","BottomLayer","C_0402_N","1515,748","1692,913","180","Cap, Chip, 100nF, 16V, +/-10%, X7R, 0402"
-"C11","100n","BottomLayer","C_0402_N","1515,748","1732,284","180","Cap, Chip, 100nF, 16V, +/-10%, X7R, 0402"
-"C10","100n","BottomLayer","C_0402_N","1397,638","1456,693","0","Cap, Chip, 100nF, 16V, +/-10%, X7R, 0402"
-"C9","100n","BottomLayer","C_0402_N","1417,323","1712,598","270","Cap, Chip, 100nF, 16V, +/-10%, X7R, 0402"
-"C8","100n","BottomLayer","C_0402_N","1377,953","1712,598","270","Cap, Chip, 100nF, 16V, +/-10%, X7R, 0402"
+"C12","100n","BottomLayer","C_0402_N","1515,747","1692,913","180","Cap, Chip, 100nF, 16V, +/-10%, X7R, 0402"
+"C11","100n","BottomLayer","C_0402_N","1515,747","1732,284","180","Cap, Chip, 100nF, 16V, +/-10%, X7R, 0402"
+"C10","100n","BottomLayer","C_0402_N","1397,637","1456,693","0","Cap, Chip, 100nF, 16V, +/-10%, X7R, 0402"
+"C9","100n","BottomLayer","C_0402_N","1417,322","1712,598","270","Cap, Chip, 100nF, 16V, +/-10%, X7R, 0402"
+"C8","100n","BottomLayer","C_0402_N","1377,952","1712,598","270","Cap, Chip, 100nF, 16V, +/-10%, X7R, 0402"
 "C7","100n","BottomLayer","C_0402_N","1319,332","1456,693","180","Cap, Chip, 100nF, 16V, +/-10%, X7R, 0402"
 "C6","100n","BottomLayer","C_0402_N","1358,268","1614,173","0","Cap, Chip, 100nF, 16V, +/-10%, X7R, 0402"
 "C5","100n","BottomLayer","C_0402_N","1358,267","1653,543","0","Cap, Chip, 100nF, 16V, +/-10%, X7R, 0402"
