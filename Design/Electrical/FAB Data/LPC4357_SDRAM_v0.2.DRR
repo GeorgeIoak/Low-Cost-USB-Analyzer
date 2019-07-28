@@ -1,5 +1,5 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: LPC4357_SDRAM_v0.2.PcbDoc   7/22/2019  3:08:59 PM
+NCDrill File Report For: LPC4357_SDRAM_v0.2.PcbDoc   7/28/2019  10:34:53 AM
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Layer Pair : Top Layer to Bottom Layer
@@ -8,8 +8,8 @@ ASCII SlotHoles File : LPC4357_SDRAM_v0.2-SlotHoles.TXT
 
 Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
 ----------------------------------------------------------------------------------------------------------------------------------
-T1      8mil (0.2mm)                                              Round             329       PTH        0.00inch (0.00mm)
-T2      10mil (0.25mm)                                            Round             13        PTH        0.00inch (0.00mm)
+T1      8mil (0.2mm)                                              Round             327       PTH        0.00inch (0.00mm)
+T2      10mil (0.25mm)                                            Round             15        PTH        0.00inch (0.00mm)
 T3      12mil (0.3mm)                                             Round             4         PTH        0.00inch (0.00mm)
 T4      24mil (0.6mm)                                             Round             170       PTH        0.00inch (0.00mm)
 T5      24mil (0.6mm)                                             Slot              2         PTH        0.00inch (0.00mm)
@@ -19,8 +19,10 @@ T8      35mil (0.9mm)                                             Round         
 T9      36mil (0.92mm)                                            Round             4         PTH        0.00inch (0.00mm)
 T10     39mil (1mm)                                               Slot              1         PTH        0.00inch (0.00mm)
 T11     47mil (1.2mm)                                             Round             2         PTH        0.00inch (0.00mm)
-T12     91mil (2.3mm)                                             Round             2         PTH        0.00inch (0.00mm)
+T12     79mil (2mm)                                               Round             1         PTH        0.00inch (0.00mm)
+T13     87mil (2.2mm)                                             Round             1         PTH        0.00inch (0.00mm)
+T14     91mil (2.3mm)                                             Round             2         PTH        0.00inch (0.00mm)
 ----------------------------------------------------------------------------------------------------------------------------------
-Totals                                                                              545
+Totals                                                                              547
 
-Total Processing Time (hh:mm:ss) : 00:00:00
+Total Processing Time (hh:mm:ss) : 00:00:01

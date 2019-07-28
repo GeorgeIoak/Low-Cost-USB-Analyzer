@@ -149,7 +149,7 @@ OutputEnabled8_OutputMedium5=0
 OutputDefault8=0
 PageOptions8=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=4.32|XCorrection=1.00|YCorrection=1.00|PrintKind=0|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 Configuration8_Name1=OutputConfigurationParameter1
-Configuration8_Item1=Record=Pcb3DPrintView|ResX=300|ResY=300|ViewX=19685040|ViewY=19685040|LookAtX=15748030|LookAtY=14763780|LookAtZ=0|UpX=0|UpY=1|UpZ=0|FOV=0|QuatX=0|QuatY=0|QuatZ=0|QuatW=1|Zoom=6.06043980606593E-5|UnitsPercent=True|UnitsDPI=True|LockResAspect=True|ViewConfigType=.config_3d|CustomCamera=False|ViewFromTop=True|ScreenWidth=0|ScreenHeight=0|ViewConfig= 
+Configuration8_Item1=Record=Pcb3DPrintView|ResX=300|ResY=300|ViewX=19685040|ViewY=19685040|LookAtX=15748030|LookAtY=14763780|LookAtZ=0|UpX=0|UpY=1|UpZ=0|FOV=0|QuatX=0|QuatY=0|QuatZ=0|QuatW=1|Zoom=6.06043980606593E-5|UnitsPercent=True|UnitsDPI=True|LockResAspect=True|ViewConfigType=.config_3d|CustomCamera=False|ViewFromTop=True|ScreenWidth=0|ScreenHeight=0|ViewConfig=
 OutputType9=PCB Print
 OutputName9=PCB Prints
 OutputCategory9=Documentation
@@ -287,7 +287,7 @@ OutputFileNameMulti4=
 UseOutputNameForMulti4=1
 OutputFileNameSpecial4=
 OpenOutput4=0
-OutputFilePath5=C:\Users\george\Dropbox\Design\LPC4357_SDRAM\.\FAB Data\
+OutputFilePath5=C:\Users\george\Dropbox\Design\LPC4357_SDRAM\Design\Electrical\.\FAB Data\
 ReleaseManaged5=0
 OutputBasePath5=.\
 OutputPathMedia5=FAB Data
@@ -316,7 +316,7 @@ OpenGerberOutput4=0
 OpenNCDrillOutput4=0
 OpenIPCOutput4=0
 EnableReload4=0
-RelativeOutputPath5=C:\Users\george\Dropbox\Design\LPC4357_SDRAM\.\FAB Data\
+RelativeOutputPath5=C:\Users\george\Dropbox\Design\LPC4357_SDRAM\Design\Electrical\.\FAB Data\
 OpenOutputs5=0
 AddToProject5=0
 TimestampFolder5=0
