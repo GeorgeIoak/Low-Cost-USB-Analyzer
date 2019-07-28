@@ -8,3 +8,5 @@ This is NOT a finished project but it is getting close. The design in done in Al
 ![1](https://github.com/GeorgeIoak/Low-Cost-USB-Analyzer/blob/master/Images/LP4357_SDRAM_3D-Top.png)
 
 ![2](https://github.com/GeorgeIoak/Low-Cost-USB-Analyzer/blob/master/Images/LP4357_SDRAM_3D-Bot.png)
+
+You can download the "LPC4357_SDRAM-BGA Design Files.zip" file and use [Altium's Online Viewer](https://www.altium.com/viewer?utm_content=buffer67ff0) to look through the schematic and layout
