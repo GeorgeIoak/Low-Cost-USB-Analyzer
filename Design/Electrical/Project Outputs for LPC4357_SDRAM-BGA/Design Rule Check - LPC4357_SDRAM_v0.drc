@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
-PCB File : C:\Users\george\Dropbox\Design\LPC4357_SDRAM\Design\Electrical\LPC4357_SDRAM_v0.2.PcbDoc
-Date     : 7/28/2019
-Time     : 10:36:16 AM
+PCB File : C:\Users\georg\Dropbox\Design\LPC4357_SDRAM\Design\Electrical\LPC4357_SDRAM_v0.2.PcbDoc
+Date     : 7/30/2019
+Time     : 5:37:56 PM
 
 Processing Rule : Clearance Constraint (Gap=0.11mm) (WithinRoom('BGA_Area')),(All)
 Rule Violations :0

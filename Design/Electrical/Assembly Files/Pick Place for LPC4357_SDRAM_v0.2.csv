@@ -1,22 +1,22 @@
 Altium Designer Pick and Place Locations
-C:\Users\george\Dropbox\Design\LPC4357_SDRAM\Design\Electrical\.\Assembly Files\Pick Place for LPC4357_SDRAM_v0.2.csv
+C:\Users\georg\Dropbox\Design\LPC4357_SDRAM\Design\Electrical\.\Assembly Files\Pick Place for LPC4357_SDRAM_v0.2.csv
 
 ========================================================================================================================
 File Design Information:
 
-Date:       28/07/19
-Time:       10:35
-Revision:   e19942b494140c40844f9bfc81b8815329fde138
+Date:       30/07/19
+Time:       17:39
+Revision:   1d95a227bb9058398ffe9db77579657fe62a26a5
 Variant:    No variations
 Units used: mil
 
 "Designator","Comment","Layer","Footprint","Center-X(mil)","Center-Y(mil)","Rotation","Description"
 "PCB","LPC USB Analyzer v0.2","BottomLayer","LOGO-GIO","0,000","0,000","180","4 Layer Controlled Impedance PCB"
-"R19","BOOT MODE","BottomLayer","3PAD_0402_JMP_1-2","2078,740","1814,961","0","3-pad, 0402, jumper"
+"R19","BOOT MODE","BottomLayer","3PAD_0402_JMP_1-2","2078,739","1814,961","0","3-pad, 0402, jumper"
 "R18","BOOT_0","BottomLayer","3PAD_0402_JMP_1-2","2236,220","1653,543","0","3-pad, 0402, jumper"
 "R17","BOOT_1","BottomLayer","3PAD_0402_JMP_1-2","2236,220","1606,299","0","3-pad, 0402, jumper"
 "R16","BOOT_2","BottomLayer","3PAD_0402_JMP_1-2","2236,220","1562,992","0","3-pad, 0402, jumper"
-"R15","BOOT_3","BottomLayer","3PAD_0402_JMP_1-2","1956,693","1685,039","90","3-pad, 0402, jumper"
+"R15","BOOT_3","BottomLayer","3PAD_0402_JMP_1-2","1956,692","1685,039","90","3-pad, 0402, jumper"
 "J1","Type A","TopLayer","USB_A_F_SIDE_REVERSE_TH","956,693","688,976","0","USB, Type A, Side Insert, Revese PinoutRA"
 "J3","Type B","TopLayer","USB_B_F_RA_TH","1433,071","781,693","0","CONN RCPT USB 2.0 TYPE B R/A 4PS"
 "R8","10k0","TopLayer","R_0402-N","2325,394","940,945","180","Resistor, 10.0 kO, 1%, 0.06W, 0402"
@@ -48,17 +48,17 @@ Units used: mil
 "H5","2x15","BottomLayer","HDR_2x15_1.27mm","2132,284","615,551","180","CONN, Header, 2x15, TH, 1.27mm"
 "H2","2x10","BottomLayer","HDR_2x10_1.27mm","984,842","2337,205","180","CONN, Header, 2x10, TH, 1.27mm"
 "H4","2x15","BottomLayer","HDR_2x15_1.27mm","2414,764","1846,850","270","CONN, Header, 2x15, TH, 1.27mm"
-"H1","2x30","BottomLayer","HDR_2x30_1.27mm","734,842","1471,850","270","CONN, Header, 2x30, TH, 1.27mm"
+"H1","2x30","BottomLayer","HDR_2x30_1.27mm","734,841","1471,850","270","CONN, Header, 2x30, TH, 1.27mm"
 "H6","JTAG","TopLayer","JTAG_FTSH-105-01-XXX-D-K","2167,913","1224,409","90","CONN, Header 2x5, TH, 1.27mm"
 "U1","LPC4357JET256,551","TopLayer","NXP-SOT740-2","1437,008","1673,228","90","32-bit ARM Cortex-M4 / M0 Microcontroller, 164 I/O, 1024 KB Flash, 136 KB SRAM, -40 to 105 degC, 256-Ball LBGA, Tray, RoHS"
 "R10","12k0","TopLayer","R_0402-N","1464,567","1232,284","180","Resistor, 12.0 kO, 1%, 0.06W, 0402"
 "X1","12MHz","BottomLayer","XTAL_3.2mmx2.5mm","1185,039","1094,488","90","X-tal, 12.000MHz, Cl=20pF, +-18ppm, 3225"
-"R9","1M","BottomLayer","R_0402-N","1185,038","1205,909","0","Resistor, 1 MO, 1%, 0.06W, 0402"
+"R9","1M","BottomLayer","R_0402-N","1185,037","1205,909","0","Resistor, 1 MO, 1%, 0.06W, 0402"
 "C38","18p","BottomLayer","C_0402_N","1185,039","980,746","0","Cap, Chip, 18pF, 25V, ±10%, NPO 0402"
 "C37","18p","BottomLayer","C_0402_N","1185,039","1260,604","180","Cap, Chip, 18pF, 25V, ±10%, NPO 0402"
 "R6","10k0","TopLayer","R_0402-N","1948,819","1377,953","360","Resistor, 10.0 kO, 1%, 0.06W, 0402"
 "U3","USB3343-CP-TR","TopLayer","MCHP-QFN-24_A_V","1437,008","1078,740","270","Enhanced Single Supply Hi-Speed USB ULPI Transceiver, 1.8 to 3.3 V, -40 to 85 degC, 24-Pin QFN, RoHS, Tape and Reel"
-"C23","100n","BottomLayer","C_0402_N","1496,062","1003,937","0","Cap, Chip, 100nF, 16V, ±10%, X7R, 0402"
+"C23","100n","BottomLayer","C_0402_N","1496,061","1003,937","0","Cap, Chip, 100nF, 16V, ±10%, X7R, 0402"
 "C24","1u","TopLayer","C_0402_N","1560,738","1129,921","90","Cap, Chip, 1uF, 10V, ±10%, X5R, 0402"
 "C25","1u","BottomLayer","C_0402_N","1401,575","937,008","180","Cap, Chip, 1uF, 10V, ±10%, X5R, 0402"
 "C26","100n","BottomLayer","C_0402_N","1350,393","1027,559","270","Cap, Chip, 100nF, 16V, ±10%, X7R, 0402"
@@ -71,11 +71,11 @@ Units used: mil
 "C33","100n","BottomLayer","C_0402_N","1988,188","1774,959","270","Cap, Chip, 100nF, 16V, ±10%, X7R, 0402"
 "C32","100n","BottomLayer","C_0402_N","1992,125","1566,929","90","Cap, Chip, 100nF, 16V, ±10%, X7R, 0402"
 "C31","100n","BottomLayer","C_0402_N","2078,740","1500,738","0","Cap, Chip, 100nF, 16V, ±10%, X7R, 0402"
-"C30","100n","BottomLayer","C_0402_N","2165,354","1574,803","90","Cap, Chip, 100nF, 16V, ±10%, X7R, 0402"
-"C29","100n","BottomLayer","C_0402_N","2165,354","1653,543","90","Cap, Chip, 100nF, 16V, ±10%, X7R, 0402"
+"C30","100n","BottomLayer","C_0402_N","2165,353","1574,803","90","Cap, Chip, 100nF, 16V, ±10%, X7R, 0402"
+"C29","100n","BottomLayer","C_0402_N","2165,353","1653,543","90","Cap, Chip, 100nF, 16V, ±10%, X7R, 0402"
 "C28","100n","BottomLayer","C_0402_N","2082,676","1574,803","270","Cap, Chip, 100nF, 16V, ±10%, X7R, 0402"
 "C27","100n","BottomLayer","C_0402_N","2082,676","1653,543","270","Cap, Chip, 100nF, 16V, ±10%, X7R, 0402"
-"C22","100n","BottomLayer","C_0402_N","1200,786","1527,559","0","Cap, Chip, 100nF, 16V, ±10%, X7R, 0402"
+"C22","100n","BottomLayer","C_0402_N","1200,785","1527,559","0","Cap, Chip, 100nF, 16V, ±10%, X7R, 0402"
 "C21","100n","BottomLayer","C_0402_N","1224,408","1732,284","0","Cap, Chip, 100nF, 16V, ±10%, X7R, 0402"
 "C20","100n","BottomLayer","C_0402_N","1318,898","1740,158","180","Cap, Chip, 100nF, 16V, ±10%, X7R, 0402"
 "C19","100n","BottomLayer","C_0402_N","1555,118","1614,173","0","Cap, Chip, 100nF, 16V, ±10%, X7R, 0402"
@@ -96,4 +96,4 @@ Units used: mil
 "C4","100n","BottomLayer","C_0402_N","1570,866","1885,827","180","Cap, Chip, 100nF, 16V, ±10%, X7R, 0402"
 "C3","100n","BottomLayer","C_0402_N","1240,158","1614,173","180","Cap, Chip, 100nF, 16V, ±10%, X7R, 0402"
 "C2","100n","BottomLayer","C_0402_N","1283,465","1850,394","180","Cap, Chip, 100nF, 16V, ±10%, X7R, 0402"
-"C1","100n","BottomLayer","C_0402_N","1633,857","1614,173","0","Cap, Chip, 100nF, 16V, ±10%, X7R, 0402"
+"C1","100n","BottomLayer","C_0402_N","1633,856","1614,173","0","Cap, Chip, 100nF, 16V, ±10%, X7R, 0402"
