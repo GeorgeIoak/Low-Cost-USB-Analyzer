@@ -4,9 +4,9 @@ C:\Users\georg\Dropbox\Design\LPC4357_SDRAM\Design\Electrical\.\Assembly Files\P
 ========================================================================================================================
 File Design Information:
 
-Date:       30/07/19
-Time:       17:39
-Revision:   1d95a227bb9058398ffe9db77579657fe62a26a5
+Date:       31/07/19
+Time:       15:59
+Revision:   64a312ab20af9e251b9dc8fec2142b485ca18901
 Variant:    No variations
 Units used: mil
 
@@ -30,7 +30,7 @@ Units used: mil
 "R11","8.06k","TopLayer","R_0402-N","2433,071","1038,293","360","Resistor, 8.06 kO, 1%, 0.06W, 0402"
 "D2","0603 Green","TopLayer","D_0603","2421,260","1090,551","360","0603 LED, Green"
 "S1","PTS840","TopLayer","SW_PTS840","2464,567","893,701","90","SWITCH SPST RA, 50mA, 24V, SMT"
-"FB5","300R","BottomLayer","FB_0402-NIC","2267,716","1318,898","270","Ferrite bead,300 ohm@100MHz,0.15 ohm @DC, 1A, 0402"
+"FB5","300R","BottomLayer","FB_0402-NIC","2267,715","1318,898","270","Ferrite bead,300 ohm@100MHz,0.15 ohm @DC, 1A, 0402"
 "FB4","300R","BottomLayer","FB_0402-NIC","2330,708","1318,898","270","Ferrite bead,300 ohm@100MHz,0.15 ohm @DC, 1A, 0402"
 "U2","MT48LC16M16A2B4-6A:G","TopLayer","VFBGA54_8x8","2098,425","1673,228","180","256Mb PC133 SDR SDRAM, 16Mb x 16, 7.5ns, 3.3V, 0 to 70 degC, 54-Ball VFBGA, Pb-Free"
 "R7","10k0","TopLayer","R_0402-N","2161,417","1035,433","180","Resistor, 10.0 kO, 1%, 0.06W, 0402"
@@ -44,7 +44,7 @@ Units used: mil
 "C40","10u","TopLayer","0603x55","2423,229","1165,561","360","Cap, Chip, 10uF, 10V, ± 15%, X5R, 0603"
 "FB3","120R","BottomLayer","L_0603","1114,173","1409,449","0","Ferrite bead,120 ohm@100MHz,0.30 ohm @DC, 500mA, 0603"
 "FB2","120R","BottomLayer","L_0603","1110,236","1503,937","0","Ferrite bead,120 ohm@100MHz,0.30 ohm @DC, 500mA, 0603"
-"H3","2x15","BottomLayer","HDR_2x15_1.27mm","2039,762","2337,205","180","CONN, Header, 2x15, TH, 1.27mm"
+"H3","2x15","BottomLayer","HDR_2x15_1.27mm","2039,761","2337,205","180","CONN, Header, 2x15, TH, 1.27mm"
 "H5","2x15","BottomLayer","HDR_2x15_1.27mm","2132,284","615,551","180","CONN, Header, 2x15, TH, 1.27mm"
 "H2","2x10","BottomLayer","HDR_2x10_1.27mm","984,842","2337,205","180","CONN, Header, 2x10, TH, 1.27mm"
 "H4","2x15","BottomLayer","HDR_2x15_1.27mm","2414,764","1846,850","270","CONN, Header, 2x15, TH, 1.27mm"
@@ -61,7 +61,7 @@ Units used: mil
 "C23","100n","BottomLayer","C_0402_N","1496,061","1003,937","0","Cap, Chip, 100nF, 16V, ±10%, X7R, 0402"
 "C24","1u","TopLayer","C_0402_N","1560,738","1129,921","90","Cap, Chip, 1uF, 10V, ±10%, X5R, 0402"
 "C25","1u","BottomLayer","C_0402_N","1401,575","937,008","180","Cap, Chip, 1uF, 10V, ±10%, X5R, 0402"
-"C26","100n","BottomLayer","C_0402_N","1350,393","1027,559","270","Cap, Chip, 100nF, 16V, ±10%, X7R, 0402"
+"C26","100n","BottomLayer","C_0402_N","1350,392","1027,559","270","Cap, Chip, 100nF, 16V, ±10%, X7R, 0402"
 "R1","8.06k","TopLayer","R_0402-N","1566,929","1003,937","90","Resistor, 8.06 kO, 1%, 0.06W, 0402"
 "X2","26MHz","TopLayer","XTAL_2.0mmx1.6mm","1677,165","1059,055","360","X-tal, 26.000MHz, Cl=6pF, +-18ppm, 2.0 x 1.6mm"
 "R2","1M","TopLayer","R_0402-N","1756,022","1059,055","90","Resistor, 1 MO, 1%, 0.06W, 0402"
@@ -76,11 +76,11 @@ Units used: mil
 "C28","100n","BottomLayer","C_0402_N","2082,676","1574,803","270","Cap, Chip, 100nF, 16V, ±10%, X7R, 0402"
 "C27","100n","BottomLayer","C_0402_N","2082,676","1653,543","270","Cap, Chip, 100nF, 16V, ±10%, X7R, 0402"
 "C22","100n","BottomLayer","C_0402_N","1200,785","1527,559","0","Cap, Chip, 100nF, 16V, ±10%, X7R, 0402"
-"C21","100n","BottomLayer","C_0402_N","1224,408","1732,284","0","Cap, Chip, 100nF, 16V, ±10%, X7R, 0402"
-"C20","100n","BottomLayer","C_0402_N","1318,898","1740,158","180","Cap, Chip, 100nF, 16V, ±10%, X7R, 0402"
+"C21","100n","BottomLayer","C_0402_N","1224,407","1732,284","0","Cap, Chip, 100nF, 16V, ±10%, X7R, 0402"
+"C20","100n","BottomLayer","C_0402_N","1318,897","1740,158","180","Cap, Chip, 100nF, 16V, ±10%, X7R, 0402"
 "C19","100n","BottomLayer","C_0402_N","1555,118","1614,173","0","Cap, Chip, 100nF, 16V, ±10%, X7R, 0402"
 "C18","100n","BottomLayer","C_0402_N","1555,118","1653,543","0","Cap, Chip, 100nF, 16V, ±10%, X7R, 0402"
-"C17","100n","BottomLayer","C_0402_N","1279,528","1653,543","180","Cap, Chip, 100nF, 16V, ±10%, X7R, 0402"
+"C17","100n","BottomLayer","C_0402_N","1279,527","1653,543","180","Cap, Chip, 100nF, 16V, ±10%, X7R, 0402"
 "C16","100n","BottomLayer","C_0402_N","1318,896","1692,913","180","Cap, Chip, 100nF, 16V, ±10%, X7R, 0402"
 "C15","100n","BottomLayer","C_0402_N","1437,006","1570,866","180","Cap, Chip, 100nF, 16V, ±10%, X7R, 0402"
 "C14","100n","BottomLayer","C_0402_N","1496,062","1633,858","90","Cap, Chip, 100nF, 16V, ±10%, X7R, 0402"
@@ -92,8 +92,8 @@ Units used: mil
 "C8","100n","BottomLayer","C_0402_N","1377,952","1712,598","270","Cap, Chip, 100nF, 16V, ±10%, X7R, 0402"
 "C7","100n","BottomLayer","C_0402_N","1319,331","1456,693","180","Cap, Chip, 100nF, 16V, ±10%, X7R, 0402"
 "C6","100n","BottomLayer","C_0402_N","1358,268","1614,173","0","Cap, Chip, 100nF, 16V, ±10%, X7R, 0402"
-"C5","100n","BottomLayer","C_0402_N","1358,266","1653,543","0","Cap, Chip, 100nF, 16V, ±10%, X7R, 0402"
+"C5","100n","BottomLayer","C_0402_N","1358,265","1653,543","0","Cap, Chip, 100nF, 16V, ±10%, X7R, 0402"
 "C4","100n","BottomLayer","C_0402_N","1570,866","1885,827","180","Cap, Chip, 100nF, 16V, ±10%, X7R, 0402"
-"C3","100n","BottomLayer","C_0402_N","1240,158","1614,173","180","Cap, Chip, 100nF, 16V, ±10%, X7R, 0402"
-"C2","100n","BottomLayer","C_0402_N","1283,465","1850,394","180","Cap, Chip, 100nF, 16V, ±10%, X7R, 0402"
+"C3","100n","BottomLayer","C_0402_N","1240,157","1614,173","180","Cap, Chip, 100nF, 16V, ±10%, X7R, 0402"
+"C2","100n","BottomLayer","C_0402_N","1283,464","1850,394","180","Cap, Chip, 100nF, 16V, ±10%, X7R, 0402"
 "C1","100n","BottomLayer","C_0402_N","1633,856","1614,173","0","Cap, Chip, 100nF, 16V, ±10%, X7R, 0402"
