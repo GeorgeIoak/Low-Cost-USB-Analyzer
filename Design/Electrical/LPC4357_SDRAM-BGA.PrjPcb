@@ -105,8 +105,29 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document5]
+DocumentPath=LPC4357_SDRAM_v0.2.PCBDwf
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [GeneratedDocument1]
 DocumentPath=Project Outputs for LPC4357_SDRAM-BGA\Design Rule Check - LPC4357_SDRAM_v0.html
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Project Outputs for LPC4357_SDRAM-BGA\Pick Place for LPC4357_SDRAM_v0.2.csv
 DItemRevisionGUID=
 
 [Configuration1]
@@ -267,7 +288,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=OneNote
+TargetPrinter=Brother HL-6180DW series Printer
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
@@ -347,22 +368,26 @@ Name=Assembly Outputs
 Description=
 TargetPrinter=Brother HL-6180DW series Printer
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
-OutputType1=Assembly
-OutputName1=Assembly Drawings
+OutputType1=Test Points For Assembly
+OutputName1=Test Point Report
 OutputDocumentPath1=
 OutputVariantName1=[No Variations]
 OutputDefault1=0
-PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 OutputType2=Pick Place
 OutputName2=Generates pick and place files
 OutputDocumentPath2=
 OutputVariantName2=[No Variations]
 OutputDefault2=0
-OutputType3=Test Points For Assembly
-OutputName3=Test Point Report
+Configuration2_Name1=ForceUpdateSettings
+Configuration2_Item1=False
+Configuration2_Name2=OutputConfigurationParameter1
+Configuration2_Item2=Record=PickPlaceView|Units=Metric|GenerateCSVFormat=True|GenerateTextFormat=False|ShowUnits=False|Separator=.|ExcludeFilterParam=False|IncludeVariations=False|Filter= |FilterActive=False|Column#1=Name:Designator,Fixed:True,Metric:False,Visible:True,Sort:None,Position:0|Column#2=Name:Comment,Fixed:True,Metric:False,Visible:True,Sort:None,Position:1|Column#3=Name:Layer,Fixed:True,Metric:False,Visible:True,Sort:None,Position:2|Column#4=Name:Footprint,Fixed:True,Metric:False,Visible:True,Sort:None,Position:3|Column#5=Name:Footprint Description,Fixed:True,Metric:False,Visible:False,Sort:None,Position:4|Column#6=Name:Center-X,Fixed:True,Metric:True,Visible:True,Sort:None,Position:5|Column#7=Name:Center-Y,Fixed:True,Metric:True,Visible:True,Sort:None,Position:6|Column#8=Name:Rotation,Fixed:True,Metric:False,Visible:True,Sort:None,Position:7|Column#9=Name:Description,Fixed:True,Metric:False,Visible:True,Sort:None,Position:8|Column#10=Name:ComponentKind,Fixed:True,Metric:False,Visible:False,Sort:None,Position:9|Column#11=Name:Height,Fixed:True,Metric:True,Visible:False,Sort:None,Position:10|Column#12=Name:Ref-X,Fixed:True,Metric:True,Visible:False,Sort:None,Position:11|Column#13=Name:Ref-Y,Fixed:True,Metric:True,Visible:False,Sort:None,Position:12|Column#14=Name:Pad-X,Fixed:True,Metric:True,Visible:False,Sort:None,Position:13|Column#15=Name:Pad-Y,Fixed:True,Metric:True,Visible:False,Sort:None,Position:14|Column#16=Name:Variation,Fixed:True,Metric:False,Visible:False,Sort:None,Position:15|Column#17=Name:IOT,Fixed:False,Metric:False,Visible:False,Sort:None,Position:46|Column#18=Name:Manufacturer Part Number,Fixed:False,Metric:False,Visible:False,Sort:None,Position:50|Column#19=Name:Operating Temperature Classification,Fixed:False,Metric:False,Visible:False,Sort:None,Position:63|Column#20=Name:Package Reference,Fixed:False,Metric:False,Visible:False,Sort:None,Position:65|Column#21=Name:ComponentLink3Description,Fixed:False,Metric:False,Visible:False,Sort:None,Position:25|Column#22=Name:Dual Supply Voltage (Max),Fixed:False,Metric:False,Visible:False,Sort:None,Position:37|Column#23=Name:Number of Transceivers,Fixed:False,Metric:False,Visible:False,Sort:None,Position:56|Column#24=Name:Datasheet Version,Fixed:False,Metric:False,Visible:False,Sort:None,Position:31|Column#25=Name:LCD,Fixed:False,Metric:False,Visible:False,Sort:None,Position:47|Column#26=Name:HelpURL,Fixed:False,Metric:False,Visible:False,Sort:None,Position:45|Column#27=Name:Density,Fixed:False,Metric:False,Visible:False,Sort:None,Position:33|Column#28=Name:Core,Fixed:False,Metric:False,Visible:False,Sort:None,Position:27|Column#29=Name:Voltage,Fixed:False,Metric:False,Visible:False,Sort:None,Position:86|Column#30=Name:Operating Temperature (Min),Fixed:False,Metric:False,Visible:False,Sort:None,Position:62|Column#31=Name:Op. Temp.,Fixed:False,Metric:False,Visible:False,Sort:None,Position:57|Column#32=Name:Flash,Fixed:False,Metric:False,Visible:False,Sort:None,Position:42|Column#33=Name:Manufacturer URL,Fixed:False,Metric:False,Visible:False,Sort:None,Position:52|Column#34=Name:Ethernet,Fixed:False,Metric:False,Visible:False,Sort:None,Position:41|Column#35=Name:Dual Supply Voltage (Typ),Fixed:False,Metric:False,Visible:False,Sort:None,Position:39|Column#36=Name:Supplier Part Number 2,Fixed:False,Metric:False,Visible:False,Sort:None,Position:83|Column#37=Name:Packaging,Fixed:False,Metric:False,Visible:False,Sort:None,Position:70|Column#38=Name:Mounting Technology,Fixed:False,Metric:False,Visible:False,Sort:None,Position:55|Column#39=Name:Power Supply Requirement,Fixed:False,Metric:False,Visible:False,Sort:None,Position:75|Column#40=Name:Dual Supply Voltage (Min),Fixed:False,Metric:False,Visible:False,Sort:None,Position:38|Column#41=Name:USB,Fixed:False,Metric:False,Visible:False,Sort:None,Position:84|Column#42=Name:Rad Hardened,Fixed:False,Metric:False,Visible:False,Sort:None,Position:77|Column#43=Name:Width,Fixed:False,Metric:False,Visible:False,Sort:None,Position:87|Column#44=Name:CAN,Fixed:False,Metric:False,Visible:False,Sort:None,Position:16|Column#45=Name:Clock Speed,Fixed:False,Metric:False,Visible:False,Sort:None,Position:19|Column#46=Name:ComponentLink3URL,Fixed:False,Metric:False,Visible:False,Sort:None,Position:26|Column#47=Name:Packing,Fixed:False,Metric:False,Visible:False,Sort:None,Position:71|Column#48=Name:Operating Supply Voltage (Typ),Fixed:False,Metric:False,Visible:False,Sort:None,Position:60|Column#49=Name:Pin Count,Fixed:False,Metric:False,Visible:False,Sort:None,Position:74|Column#50=Name:Manufacturer_No,Fixed:False,Metric:False,Visible:True,Sort:None,Position:53|Column#51=Name:Package Type,Fixed:False,Metric:False,Visible:False,Sort:None,Position:66|Column#52=Name:Clock Rate,Fixed:False,Metric:False,Visible:False,Sort:None,Position:18|Column#53=Name:FMEDA__FUNCTION_IN_SYSTEM,Fixed:False,Metric:False,Visible:False,Sort:None,Position:44|Column#54=Name:Supplier 1,Fixed:False,Metric:False,Visible:False,Sort:None,Position:80|Column#55=Name:Dist_No,Fixed:False,Metric:False,Visible:False,Sort:None,Position:35|Column#56=Name:Cycle Time,Fixed:False,Metric:False,Visible:False,Sort:None,Position:28|Column#57=Name:Supplier Part Number 1,Fixed:False,Metric:False,Visible:False,Sort:None,Position:82|Column#58=Name:FMEDA__CHANNEL,Fixed:False,Metric:False,Visible:False,Sort:None,Position:43|Column#59=Name:ComponentLink2URL,Fixed:False,Metric:False,Visible:False,Sort:None,Position:24|Column#60=Name:Manufacturer,Fixed:False,Metric:False,Visible:False,Sort:None,Position:48|Column#61=Name:Distributor,Fixed:False,Metric:False,Visible:False,Sort:None,Position:36|Column#62=Name:Mounting,Fixed:False,Metric:False,Visible:False,Sort:None,Position:54|Column#63=Name:Supplier 2,Fixed:False,Metric:False,Visible:False,Sort:None,Position:81|Column#64=Name:Code_JEDEC,Fixed:False,Metric:False,Visible:False,Sort:None,Position:20|Column#65=Name:Operating Temperature (Max),Fixed:False,Metric:False,Visible:False,Sort:None,Position:61|Column#66=Name:Manufacturer 1,Fixed:False,Metric:False,Visible:False,Sort:None,Position:49|Column#67=Name:RoHS,Fixed:False,Metric:False,Visible:False,Sort:None,Position:79|Column#68=Name:RAM,Fixed:False,Metric:False,Visible:False,Sort:None,Position:78|Column#69=Name:PartNumber,Fixed:False,Metric:False,Visible:False,Sort:None,Position:72|Column#70=Name:Datasheet URL,Fixed:False,Metric:False,Visible:False,Sort:None,Position:30|Column#71=Name:ComponentLink2Description,Fixed:False,Metric:False,Visible:False,Sort:None,Position:23|Column#72=Name:Data Rate,Fixed:False,Metric:False,Visible:False,Sort:None,Position:29|Column#73=Name:CL,Fixed:False,Metric:False,Visible:False,Sort:None,Position:17|Column#74=Name:PackageDescription,Fixed:False,Metric:False,Visible:False,Sort:None,Position:67|Column#75=Name:Operating Supply Voltage (Max),Fixed:False,Metric:False,Visible:False,Sort:None,Position:58|Column#76=Name:ComponentLink1URL,Fixed:False,Metric:False,Visible:False,Sort:None,Position:22|Column#77=Name:Value,Fixed:False,Metric:False,Visible:False,Sort:None,Position:85|Column#78=Name:PackageReference,Fixed:False,Metric:False,Visible:False,Sort:None,Position:68|Column#79=Name:Manufacturer Part Number 1,Fixed:False,Metric:False,Visible:False,Sort:None,Position:51|Column#80=Name:ESD Protection,Fixed:False,Metric:False,Visible:False,Sort:None,Position:40|Column#81=Name:Operating Supply Voltage (Min),Fixed:False,Metric:False,Visible:False,Sort:None,Position:59|Column#82=Name:Package Description,Fixed:False,Metric:False,Visible:False,Sort:None,Position:64|Column#83=Name:ComponentLink1Description,Fixed:False,Metric:False,Visible:False,Sort:None,Position:21|Column#84=Name:DatasheetVersion,Fixed:False,Metric:False,Visible:False,Sort:None,Position:32|Column#85=Name:PackageVersion,Fixed:False,Metric:False,Visible:False,Sort:None,Position:69|Column#86=Name:PB-free,Fixed:False,Metric:False,Visible:False,Sort:None,Position:73|Column#87=Name:Price,Fixed:False,Metric:False,Visible:False,Sort:None,Position:76|Column#88=Name:Depth,Fixed:False,Metric:False,Visible:False,Sort:None,Position:34
+OutputType3=Assembly
+OutputName3=Assembly Drawings
 OutputDocumentPath3=
 OutputVariantName3=[No Variations]
 OutputDefault3=0
+PageOptions3=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 
 [OutputGroup5]
 Name=Fabrication Outputs

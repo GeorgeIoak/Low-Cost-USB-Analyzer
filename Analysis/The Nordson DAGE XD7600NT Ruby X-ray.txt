@@ -1,0 +1,23 @@
+The Nordson DAGE XD7600NT Ruby X
+ray is the ultimate
+inspection system. The inspection system uses the latest technology
+image intensifier and proven feature recognition capability to provide
+the ultimate choice for the highest quality in X ray imaging on the
+market today. With the revolutionary X Plane™ option, the superior
+image quality can be extended into separating individual layers. X
+Plane™ uses a proprietary, patent applied for tomosynthesis or CT
+technique to create 2 D X ray slices in any plane of a printed circuit
+board assembly without the need to cut or destroy the board.
+
+Specifications
+• Proveable < 0.5 µm Feature Recognition
+• 160 kV Tube with Up to 10 W Tube Power
+• 1,800 X geometric magnification
+• 23,400 X total magnification including digital zoom
+• Maximum board size: 29” x 22.8” (736 x 580 mm)
+• Maximum inspection area: 20” x 17.5” (508 x 444 mm)
+• 70 oblique angle views for 360 around a point of interest
+• AciS Active X ray Image Stabilisation anti vibration control
+• ciDAT3 digital image intensifier detector with 1600 x 1200 pixels
+(2.0 Mpixels)
+• X Plane™

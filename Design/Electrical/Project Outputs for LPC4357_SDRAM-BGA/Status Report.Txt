@@ -1,0 +1,10 @@
+Output: Generates pick and place files
+Type  : Pick Place
+From  : Variant [[No Variations]] of Project [LPC4357_SDRAM-BGA.PrjPcb]
+   Generated File[Pick Place for LPC4357_SDRAM_v0.2.csv]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 5:25:26 PM On 8/5/2019

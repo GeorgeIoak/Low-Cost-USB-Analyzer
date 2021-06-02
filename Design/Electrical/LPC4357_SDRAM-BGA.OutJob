@@ -21,8 +21,8 @@ TargetOutputMedium=Assembly Files
 VariantName=[No Variations]
 VariantScope=0
 CurrentConfigurationName=
-TargetPrinter=OneNote
-PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=0
+TargetPrinter=Brother HL-6180DW series Printer
+PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputMedium1=Print Job
 OutputMedium1_Type=Printer
 OutputMedium1_Printer=
@@ -68,9 +68,9 @@ Configuration2_Item3=
 Configuration2_Name4=SortOrder
 Configuration2_Item4=Designator=Up
 Configuration2_Name5=VisibleOrder
-Configuration2_Item5=Quantity=67|Designator=125|Comment=131|Description=288|Manufacturer=100|Manufacturer_No=168|Supplier 1=75|Supplier Part Number 1=142|Manufacturer 1=100|Manufacturer Part Number 1=100
+Configuration2_Item5=Quantity=67|Designator=125|Comment=131|Description=288|Manufacturer=100|Manufacturer_No=190|Supplier 1=75|Supplier Part Number 1=142|Manufacturer 1=150|Manufacturer Part Number 1=182
 Configuration2_Name6=VisibleOrder_Base
-Configuration2_Item6=Quantity=67|Designator=125|Comment=131|Description=288|Manufacturer=100|Manufacturer_No=168|Supplier 1=75|Supplier Part Number 1=142|Manufacturer 1=100|Manufacturer Part Number 1=100
+Configuration2_Item6=Quantity=67|Designator=125|Comment=131|Description=288|Manufacturer=100|Manufacturer_No=190|Supplier 1=75|Supplier Part Number 1=142|Manufacturer 1=150|Manufacturer Part Number 1=182
 Configuration2_Name7=VisibleOrder_Consolidated
 Configuration2_Item7=Line #=100|Comment=100|Description=100|Designator=100|Quantity=100|TargetPrice=100|Manufacturer 1=100|Manufacturer Part Number 1=100|Manufacturer Lifecycle 1=100|Supplier 1=100|Supplier Part Number 1=100|Supplier Unit Price 1=100|Supplier Subtotal 1=100
 Configuration2_Name8=VisibleOrder_Flat
